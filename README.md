@@ -1,6 +1,6 @@
 Hi, I’m Sam 👋
 
-I'm a Computer Science teacher based in the UK that's looking to change careers and start working full time as a programmer.
+I'm a Computer Science teacher based in the UK, looking to change careers to work full time as a programmer.
 
 Despite spending the previous 5 years in the classroom as a teacher and head of department, I've worked on a variety of projects to keep my skills up-to-date.
 
